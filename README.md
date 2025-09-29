@@ -3,9 +3,9 @@
 ***
 
 ### About me 📖
-    I am an Analysis and Systems Development professional focused on FullStack Development. I am driven by problem-solving and a quick learner. Some says that i'm a good coworker too; I really enjoy a good teamwork!
+I am an Analysis and Systems Development professional focused on FullStack Development. I am driven by problem-solving and a quick learner. Some says that i'm a good coworker too; I really enjoy a good teamwork!
 
-    Oh, and i'm also a PC game's lover, important thing to mention here! 🎮
+Oh, and i'm also a PC game's lover, important thing to mention here! 🎮
 
 ***
 
