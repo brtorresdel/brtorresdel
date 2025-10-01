@@ -18,6 +18,10 @@ Oh, and i'm also a PC game's lover, important thing to mention here! 🎮
 
 ***
 
+![LeetCode Stats](https://leetcard.jacoblin.cool/brtorresdel?theme=wtf&font=Noto%20Sans&ext=activity)
+
+***
+
 ### Contact me!
 ![https://www.linkedin.com/in/brtorresdel](./assets/Linkedin.png)
 ![https://www.instagram.com/brtorresrod](./assets/Instagram.png)
