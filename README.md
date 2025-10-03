@@ -23,8 +23,8 @@ Oh, and i'm also a PC game's lover, important thing to mention here! 🎮
 ***
 
 ### Contact me!
-![https://www.linkedin.com/in/brtorresdel](./assets/Linkedin.png)
-![https://www.instagram.com/brtorresrod](./assets/Instagram.png)
-![https://x.com/brtorresrod](./assets/X.png)
-![https://www.twitch.tv/torres_rod](./assets/Twitch.png)
-![mailto:br.torres.del@gmail.com](./assets/Mail.png)
+[![LinkedIn](./assets/Linkedin.png)](https://www.linkedin.com/in/brtorresdel)
+[![Instagram](./assets/Instagram.png)](https://www.instagram.com/brtorresrod)
+[![X](./assets/X.png)](https://x.com/brtorresrod)
+[![Twitch](./assets/Twitch.png)](https://www.twitch.tv/torres_rod)
+[![Mail](./assets/Mail.png)](mailto:br.torres.del@gmail.com)
